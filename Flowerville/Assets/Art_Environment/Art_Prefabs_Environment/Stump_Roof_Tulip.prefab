@@ -10,7 +10,7 @@ GameObject:
   m_Component:
   - component: {fileID: 7187244775075591930}
   m_Layer: 0
-  m_Name: Roof_Tulip
+  m_Name: Stump_Roof_Tulip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
