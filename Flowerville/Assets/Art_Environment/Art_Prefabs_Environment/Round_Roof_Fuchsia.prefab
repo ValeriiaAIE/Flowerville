@@ -107,7 +107,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4968926186277917905}
   m_Layer: 0
-  m_Name: Roof_Fuchsia
+  m_Name: Round_Roof_Fuchsia
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
